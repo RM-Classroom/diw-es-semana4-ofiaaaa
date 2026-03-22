@@ -1,6 +1,6 @@
 #corpo {
     width: 50%;
-    background-color: rgb(105, 168, 184);
+    background-color: rgb(22, 22, 22);
     height: 300vh;
 }
 body {
@@ -8,6 +8,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    color: white;
 }
 header {
     display: flex;
@@ -30,12 +31,39 @@ header {
 header>div {
     margin: 0 15px 0 15px;
 }
-img {
+#casa-icon {
     height: 25px;
     width: 25px;
 }
-#barra-de-navacao {
+#barra-de-navegacao {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 20px 0 20px;
+    list-style: none;
+}
+#bem-vindo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 60px 0 30px 0;
+}
+#carrocel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+#bella-e-edward {
+    height: 300px;
+}
+section {
+    margin: 65px 30px 0 30px;
+}
+#indice {
+    list-style: none;
+}
+#indice-titulo {
+    margin-left: 23px;
 }
