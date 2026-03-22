@@ -1,3 +1,41 @@
+#corpo {
+    width: 50%;
+    background-color: rgb(105, 168, 184);
+    height: 300vh;
+}
 body {
-    background-color: aquamarine;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#barra-de-pesquisa {
+    width: 250px;
+    height: 20px;
+}
+#botao-de-pesquisa {
+    height: 26px;
+}
+#logo {
+    font-family: "Imperial Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+header>div {
+    margin: 0 15px 0 15px;
+}
+img {
+    height: 25px;
+    width: 25px;
+}
+#barra-de-navacao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
