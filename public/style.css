@@ -59,11 +59,34 @@ header>div {
     height: 300px;
 }
 section {
-    margin: 65px 30px 0 30px;
+    margin: 65px 0 0 30px;
 }
-#indice {
+#conjunto {
+    display: flex;
+    justify-content: space-between;
+} 
+#indice-lista {
     list-style: none;
+    padding: 0;
+    width: 120%;
+    margin-left: 20px;
 }
 #indice-titulo {
-    margin-left: 23px;
+    margin-left: 20px;
+}
+#sinopse-titulo {
+    font-family: "Imperial Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    margin: 70px 0 0 346px;
+}
+#sinopse-texto {
+    margin: 30px 110px 0 170px;
+    text-align: center;   
+}
+#edwardebella {
+    height: 300px;
+    margin: 50px 0 0 185px;
+    
 }
