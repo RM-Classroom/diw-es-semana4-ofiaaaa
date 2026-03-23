@@ -9,10 +9,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Sofia Vassallo de Andrade
+- Matricula: 1640923
+- Proposta de projeto escolhida: Coleções e itens
+- Breve descrição sobre seu projeto: O projeto se trata de uma wiki da saga Crepúsculo, onde é possível encontrar informações e imagens sobre os livros, os filmes e os personagens da obra.
 
 
 ## Print do(s) wireframe(s) criado
@@ -20,8 +20,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 <<  COLOQUE A IMAGEM AQUI >>
 
-
+![print do wireframe](../diw-es-semana4-ofiaaaa/public/Wireframe.png)
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+
+![print da página](../diw-es-semana4-ofiaaaa/public/CrepúsculoWiki.png)
